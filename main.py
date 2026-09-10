@@ -15,7 +15,7 @@ from aiogram.client.default import DefaultBotProperties
 # ================= КОНФИГУРАЦИЯ =================
 BOT_TOKEN = "8774307062:AAG0Al9YXrNw5Awl8ikiD4ySKOaz1S9bKYI"
 # ВАЖНО: Замените на реальный ID группы администрации (начинается с -100)
-ADMIN_GROUP_ID = -5523694568
+ADMIN_GROUP_ID = -1004330975091
 DB_PATH = "school_tickets.db"
 
 # Анти-спам настройки
